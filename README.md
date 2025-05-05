@@ -1,6 +1,6 @@
 # ekstraksi fitur #
 # hsv #
-```
+```python
 # Step 1: Upload gambar
 from google.colab import files
 from PIL import Image
