@@ -1,5 +1,6 @@
 # ekstraksi fitur #
 # hsv #
+```
 # Step 1: Upload gambar
 from google.colab import files
 from PIL import Image
@@ -38,6 +39,6 @@ plt.title('Histogram Hue')
 plt.xlabel('Hue value (0-179)')
 plt.ylabel('Jumlah piksel')
 plt.grid(True)
-
+```
 plt.tight_layout()
 plt.show()
